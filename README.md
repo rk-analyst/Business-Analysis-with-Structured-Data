@@ -1,4 +1,4 @@
-# Business-Analysis-with-Structured-Data
+# Whole Foods Business Analysis
 
 ## Project Summary
 
