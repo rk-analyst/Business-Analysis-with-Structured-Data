@@ -6,7 +6,7 @@ This repository contains a sample database creation and analysis for Whole Foods
 The primary tools and techniques used are:
 - SQL
 - Excel
-- Statistical Analysis
+- Statistical Analysis (Correlation, Hypothesis Testing, t-test)
 
 ## Project Description
 
